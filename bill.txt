@@ -1,0 +1,8 @@
+Delivery Date: 2024-03-28
+Payment Method: Cash
+
+Products:
+Product: Chocolate tarts, Quantity: 1, Price: 120, Total Price: 120
+Product: Mille-feuille, Quantity: 1, Price: 080, Total Price: 080
+
+Total Amount: 200
